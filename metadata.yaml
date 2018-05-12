@@ -1,0 +1,26 @@
+_repo: Norfolk-AnnalsA-Chronological-Record-of-Remarkable-Events-in-the-Nineteeth-Century-Vol.-2_36206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackie, Charles
+    deathdate: 1940
+    gutenberg_agent_id: '37024'
+    url: http://www.gutenberg.org/2009/agents/37024
+description: ''
+gutenberg_issued: '2011-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Norfolk (England) -- History'
+title: "Norfolk Annals, Vol. 2\r\nA Chronological Record of Remarkable Events in the\
+  \ Nineteeth Century"
+url: http://www.gutenberg.org/ebooks/36206
